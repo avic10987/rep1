@@ -4,3 +4,4 @@ def test_func(test):
 
 test_func(444)
 test_func(999)
+test_func(888)
